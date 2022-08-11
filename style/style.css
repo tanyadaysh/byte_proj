@@ -1,0 +1,12 @@
+h1{
+    font-size: 20px;
+    font-weight: bold;
+    color: green;
+}
+.container{
+    background-color: rgba(255, 113, 67, 0.27);
+    max-width: 1070px;
+    margin: 0 auto;
+}
+
+.btn1
